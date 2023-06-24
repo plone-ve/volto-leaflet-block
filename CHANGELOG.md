@@ -3,7 +3,7 @@
 ## 0.3.0 (unreleased)
 > 2021-xx-xx
 
-Nothing changed yet.
+- Updated i18n support [macagua]
 
 ## 0.2.0
 > 2021-08-28

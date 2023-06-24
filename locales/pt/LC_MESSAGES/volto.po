@@ -1,6 +1,6 @@
 # Translators:
 # Emanuel de Jesus <emanuel.angelo@gmail.com>, 2019
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
@@ -18,3 +18,51 @@ msgstr ""
 "Language-Code: pt\n"
 "Language-Name: Portuguese\n"
 "Preferred-Encodings: utf-8\n"
+
+#: Blocks/LeafletMap/schema
+msgid "Content"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Height"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Icon"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Latitude"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Longitude"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Map"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Marker"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Markers"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Style"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Title"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Zoom"
+msgstr ""
+
+#: index
+msgid "leafletMap"
+msgstr ""

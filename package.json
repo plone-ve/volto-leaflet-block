@@ -24,8 +24,10 @@
     "@plone/volto": ">=12.1.2"
   },
   "devDependencies": {
-    "release-it": "^14.11.5",
-    "prettier": "^2.3.2"
+    "@babel/core": "^7.22.5",
+    "pofile": "^1.1.4",
+    "prettier": "^2.3.2",
+    "release-it": "^14.11.5"
   },
   "scripts": {
     "i18n": "NODE_ENV=production node src/i18n.js",

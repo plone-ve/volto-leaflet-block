@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
-"POT-Creation-Date: 2021-08-28T16:28:52.745Z\n"
+"POT-Creation-Date: 2023-06-24T22:17:45.259Z\n"
 "Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -13,57 +13,57 @@ msgstr ""
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Content
 msgid "Content"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Height
 msgid "Height"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Icon
 msgid "Icon"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Latitude
 msgid "Latitude"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Longitude
 msgid "Longitude"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Map
 msgid "Map"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Marker
 msgid "Marker"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Markers
 msgid "Markers"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Style
 msgid "Style"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Title
 msgid "Title"
 msgstr ""
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 # defaultMessage: Zoom
 msgid "Zoom"
 msgstr ""

@@ -16,47 +16,47 @@ msgstr ""
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Content"
 msgstr "Contenu"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Height"
 msgstr "Hauteur"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Icon"
 msgstr "Icône"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Latitude"
 msgstr "Latitude"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Longitude"
 msgstr "Longitude"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Map"
 msgstr "Carte"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Marker"
 msgstr "Marqueur"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Markers"
 msgstr "Marqueurs"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Style"
 msgstr "Style"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Title"
 msgstr "Titre"
 
-#: Blocks/LeafletBlock/schema
+#: Blocks/LeafletMap/schema
 msgid "Zoom"
 msgstr "Zoom"
 

@@ -44,7 +44,7 @@ This will install the minimum config + some preset markers.
 ### Improper dependency for [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
  
 Currently, react-leaflet v3.x doesn't support Webpack v4, so we depend on [@monsonjeremy/react-leaflet](https://www.npmjs.com/package/@monsonjeremy/react-leaflet) 
-which is compatible with Webpack v4. 
+which is compatible with Webpack v4.
 
 See here : https://github.com/PaulLeCam/react-leaflet/pull/885
 

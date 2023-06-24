@@ -26,4 +26,50 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "X-Is-Fallback-For: de-at de-li de-lu de-ch de-de\n"
 
+#: Blocks/LeafletMap/schema
+msgid "Content"
+msgstr ""
 
+#: Blocks/LeafletMap/schema
+msgid "Height"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Icon"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Latitude"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Longitude"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Map"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Marker"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Markers"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Style"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Title"
+msgstr ""
+
+#: Blocks/LeafletMap/schema
+msgid "Zoom"
+msgstr ""
+
+#: index
+msgid "leafletMap"
+msgstr ""
