@@ -3,6 +3,8 @@
 ## 0.3.0 (unreleased)
 > 2021-xx-xx
 
+- Added Spanish translations [macagua]
+
 - Fixed some warns message from prettier:fix command [macagua]
 
 - Added some yarn scripts for prettier [macagua]

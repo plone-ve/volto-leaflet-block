@@ -56,6 +56,7 @@ This addon has been translated into
 
 - English
 - French
+- Spanish
 
 ## Install
 
