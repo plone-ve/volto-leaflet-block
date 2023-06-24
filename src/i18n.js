@@ -45,8 +45,8 @@ function getMessages() {
           map(JSON.parse(fs.readFileSync(filename, 'utf8')), (message) => ({
             ...message,
             filename: filename.match(/build\/messages\/src\/(.*).json$/)[1],
-          })),
-      ),
+          }))
+      )
     ),
     (current, value) => {
       let result = current;
@@ -68,7 +68,7 @@ function getMessages() {
         };
       }
       return result;
-    },
+    }
   );
 }
 
@@ -85,7 +85,7 @@ function messagesToPot(messages) {
       `# defaultMessage: ${messages[key].defaultMessage}`,
       `msgid "${key}"`,
       'msgstr ""',
-    ].join('\n'),
+    ].join('\n')
   ).join('\n\n');
 }
 
@@ -151,7 +151,7 @@ ${map(pot.items, (item) => {
     `msgid "${item.msgid}"`,
     `msgstr "${poItem ? poItem.msgstr : ''}"`,
   ].join('\n');
-}).join('\n\n')}\n`,
+}).join('\n\n')}\n`
     );
   });
 }
@@ -163,7 +163,7 @@ console.log('Synchronizing messages to pot file...');
 // We only write the pot file if it's really different
 const newPot = `${potHeader()}${messagesToPot(getMessages())}\n`.replace(
   /"POT-Creation-Date:(.*)\\n"/,
-  '',
+  ''
 );
 const oldPot = fs
   .readFileSync('locales/volto.pot', 'utf8')
@@ -172,7 +172,7 @@ const oldPot = fs
 if (newPot !== oldPot) {
   fs.writeFileSync(
     'locales/volto.pot',
-    `${potHeader()}${messagesToPot(getMessages())}\n`,
+    `${potHeader()}${messagesToPot(getMessages())}\n`
   );
 }
 console.log('Synchronizing messages to po files...');
