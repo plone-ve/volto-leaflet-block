@@ -31,6 +31,8 @@
   },
   "scripts": {
     "i18n": "NODE_ENV=production node src/i18n.js",
+    "prettier": "node_modules/.bin/prettier --single-quote --check 'src/**/*.{js,jsx,json,css,less,md}'",
+    "prettier:fix": "node_modules/.bin/prettier --single-quote --write 'src/**/*.{js,jsx,json,css,less,md}'",
     "release": "release-it"
   }
 }
